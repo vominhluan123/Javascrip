@@ -1,0 +1,1 @@
+// load và DOMContentLoaded

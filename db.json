@@ -1,0 +1,29 @@
+{
+  "posts": [],
+  "courses": [
+    {
+      "image": "https://images.unsplash.com/photo-1664575600850-c4b712e6e2bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "title": "Available for hire2",
+      "author": "Mailchimp",
+      "rating": 5,
+      "price": 99,
+      "bestSeller": true,
+      "buyAmount": 1000,
+      "id": 4
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1621317911081-f123294e86c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+      "title": "mahdi chaghari",
+      "author": " mahdi chaghari mahdi_chf",
+      "rating": 5,
+      "price": 99,
+      "bestSeller": false,
+      "buyAmount": 1000,
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

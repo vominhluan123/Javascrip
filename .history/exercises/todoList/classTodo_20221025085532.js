@@ -1,0 +1,4 @@
+// MVC
+class Modol {
+  constructor() {}
+}
